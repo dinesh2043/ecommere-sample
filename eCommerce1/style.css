@@ -1,0 +1,147 @@
+@charset "utf-8";
+/* CSS Document */
+#Table_01 {
+	margin-left:auto;
+	margin-right:auto;
+	position:relative;
+	left:0px;
+	top:0px;
+	width:900px;
+	height:1200px;
+}
+
+#Home-01 {
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:900px;
+	height:20px;
+}
+
+#Home-02 {
+	position:absolute;
+	left:0px;
+	top:20px;
+	width:900px;
+	height:136px;
+}
+
+#Home-03 {
+	position:absolute;
+	left:0px;
+	top:156px;
+	width:900px;
+	height:35px;
+}
+
+#Home-04 {
+	position:absolute;
+	left:0px;
+	top:191px;
+	width:158px;
+	height:111px;
+}
+
+#Home-btn {
+	position:absolute;
+	left:158px;
+	top:191px;
+	width:174px;
+	height:58px;
+}
+
+#Home-06 {
+	position:absolute;
+	left:332px;
+	top:191px;
+	width:15px;
+	height:111px;
+}
+
+#Product-btn {
+	position:absolute;
+	left:347px;
+	top:191px;
+	width:174px;
+	height:58px;
+}
+
+#Home-08 {
+	position:absolute;
+	left:521px;
+	top:191px;
+	width:15px;
+	height:111px;
+}
+
+#Contact-btn {
+	position:absolute;
+	left:536px;
+	top:191px;
+	width:174px;
+	height:58px;
+}
+
+#Home-10 {
+	position:absolute;
+	left:710px;
+	top:191px;
+	width:190px;
+	height:111px;
+}
+
+#Home-11 {
+	position:absolute;
+	left:158px;
+	top:249px;
+	width:174px;
+	height:53px;
+}
+
+#Home-12 {
+	position:absolute;
+	left:347px;
+	top:249px;
+	width:174px;
+	height:53px;
+}
+
+#Home-13 {
+	position:absolute;
+	left:536px;
+	top:249px;
+	width:174px;
+	height:53px;
+}
+
+#Home-14 {
+	position:absolute;
+	left:0px;
+	top:302px;
+	width:95px;
+	height:898px;
+}
+
+#Body {
+	position:absolute;
+	left:95px;
+	top:302px;
+	width:715px;
+	height:699px;
+}
+
+#Home-16 {
+	position:absolute;
+	left:810px;
+	top:302px;
+	width:90px;
+	height:898px;
+}
+
+#Home-17 {
+	position:absolute;
+	left:95px;
+	top:1001px;
+	width:715px;
+	height:199px;
+}
